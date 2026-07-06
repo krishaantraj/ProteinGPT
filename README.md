@@ -4,7 +4,7 @@
 
 Built in 24 hours for the **Ayuda AI Hackathon** (Vibe Coding an AI Product) — May 2026.
 
-🔗 **Live demo:** https://preview--proteinpal-assist.lovable.app/chat
+🔗 **Live demo:** [APP](https://proteingpt.lovable.app/)
 📊 **Hackathon submission deck:** [Google Slides](https://docs.google.com/presentation/d/1XC8TCk6YAnlB6LQphAQ9tzUJO8NTGN5qNLzoTikYgDQ/edit)
 
 ---
