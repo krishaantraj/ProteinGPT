@@ -1,0 +1,12 @@
+# ProteinGPT
+
+> AI-powered protein powder shopping assistant for the Indian market. Compares 124+ whey, plant-based, casein, and mass-gainer products across Amazon, Flipkart, Nutrabay, HealthKart and MuscleBlaze on price, protein content, certifications and value score.
+
+ProteinGPT helps fitness enthusiasts in India pick the right protein powder for their goal (muscle building, cutting, bulking, general fitness), budget, diet (vegan/vegetarian/dairy-free) and experience level. It uses retrieval-augmented generation over a curated product knowledge base and ranks results by an objective value score that combines price per gram of protein, third-party lab certifications, and user ratings.
+
+## Pages
+- [Home](/): App entry — redirects into a new chat session.
+- [Sign in](/auth): Create an account or sign in to save chat history and personalised recommendations.
+
+## Optional
+- [Chat](/chat): Conversational interface for protein recommendations and product comparisons (requires sign-in).
